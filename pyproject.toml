@@ -19,8 +19,9 @@ dependencies = [
     "coverage==7.4.4",
     "environs>=14.3.0",
     "ruff>=0.12.7",
+    "openpyxl>=3.1.5",
 ]
-requires-python = "==3.12.*"
+requires-python = "==3.11.*"
 readme = "README.md"
 license = {text = "MIT"}
 
